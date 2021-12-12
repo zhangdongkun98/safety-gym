@@ -21,7 +21,7 @@ Safety Gym depends heavily on [mujoco_py](https://github.com/openai/mujoco-py), 
 Afterwards, simply install Safety Gym by:
 
 ```
-git clone https://github.com/openai/safety-gym.git
+git clone https://github.com/zhangdongkun98/safety-gym.git
 
 cd safety-gym
 
